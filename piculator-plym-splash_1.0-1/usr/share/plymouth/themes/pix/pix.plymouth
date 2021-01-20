@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=pix
+Description=Piculator Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/piculator/static/icons/
+ScriptFile=/usr/share/plymouth/themes/pix/pix.script
